@@ -19,7 +19,7 @@ export default class MyApp extends Component<Props> {
         </Text>
         <Text style={styles.instructions}>
           reduces to fixed point(if possible)
-          {"\n"}all steps shown
+          {"\n"}all steps1 shown
           {"\n"}Enter sk program to evaluate i.e. sks(k(kks(ks)))
         </Text>
         <TextInput 
